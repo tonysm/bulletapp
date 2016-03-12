@@ -11,6 +11,7 @@ TODO description of the app
 * [JEST](https://facebook.github.io/jest/) - test tool for React components
 * [Jasmine](http://jasmine.github.io/) - test tool for the backend stuff
 * [Redux](http://redux.js.org/) - ReactJS architecture
+* [ZenHub](https://www.zenhub.io) - project management
 
 ## Code structure
 
